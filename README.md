@@ -19,7 +19,7 @@ This is a repository *entirely dedicated* to all kind of questions ranging from 
 - Java
 - JavaScript
 --- 
-## ___For interaction and queries: ***[Join the community](https://discord.gg/rTfxYAWD)***___
+## ___For interaction and queries: ***[Join the community](https://discord.com/channels/@me)***___
 ---
 
 # 🎇How To Contribute 🎇
