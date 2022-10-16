@@ -120,7 +120,6 @@ git push -u origin <your_branch_name>
 
 **15** 🎉 WOAHHHH!!!! 🎉 you made a pull request, Wait for it to get approved and merged 🤗🤗
 
-# 🎉🎉🎉🎉🎉🎉 ___HAPPY CONTRIBUTING!___ 🎉🎉🎉🎉🎉🎉
-
 ![Uno_HackFest22_Hero_V1-1024x395](https://user-images.githubusercontent.com/76156804/196022627-5392cd82-8380-484a-a061-ff710c4569b2.jpg)
 
+# 🎉🎉🎉🎉🎉 ___HAPPY CONTRIBUTING!___ 🎉🎉🎉🎉🎉
