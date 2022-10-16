@@ -32,7 +32,7 @@ To start contributing, follow the below guidelines:
 
 0. Take a look at the existing issues or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
 
-1. Find a question you can solve from any of these platforms.
+1. Find/Create a question you can solve from any of these platforms.
 
 2. Open an issue.
 
@@ -41,6 +41,8 @@ To start contributing, follow the below guidelines:
 4. Work on it i.e 
    * Solve that question by yourself.
    * Add it to your forked repo, if the folder doesn't exist create it first and then add your code.
+   * Add main funtion and add some comment line in between your code.
+   * Add explanation also after pushing your code.
 
 5. Make a pull request. 
 
@@ -118,8 +120,5 @@ git push -u origin <your_branch_name>
 
 **15** 🎉 WOAHHHH!!!! 🎉 you made a pull request, Wait for it to get approved and merged 🤗🤗
 
-<p align="center"><img src="https://media.giphy.com/media/5T06ftQWtCMy0XFaaI/giphy.gif?cid=ecf05e47177480twu7lsjmuc468224osnvqmrj12wojrhl4o&rid=giphy.gif&ct=g" width = 90%></p>
-
 # 🎉🎉🎉🎉🎉🎉 ___HAPPY CONTRIBUTING!___ 🎉🎉🎉🎉🎉🎉
-
 
